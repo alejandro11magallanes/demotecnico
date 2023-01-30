@@ -1,0 +1,41 @@
+#plan {
+  border-style: solid;
+  border-color: #00b0f0;
+  border-radius: 10px;
+  width: 23%;
+  margin-left: 2%;
+  display: block;
+}
+#titulo-plan {
+  color: #00b0f0;
+}
+#titulo-precio {
+  color: red;
+}
+#titulo-boton {
+  background-color: #00b0f0;
+  color: white;
+}
+#titulo-botone {
+  background-color: #00b0f0;
+  color: white;
+}
+#contacto {
+  background-color: #00b0f0;
+  color: white;
+}
+
+#demo {
+  border-style: solid;
+  border-color: #00b0f0;
+  border-radius: 10px;
+}
+#cerrar-boton {
+  background-color: #f2f2f2e1;
+  color: #00b0f0;
+}
+
+#tabla-head {
+  background-color: #00b0f0;
+  color: white;
+}
